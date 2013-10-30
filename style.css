@@ -298,9 +298,14 @@ a:hover, a:active {outline: 0; }
 
 /********* ADDED BY JAMES ********* */
 .main-content article li{
-	padding: 0 30px;
-	background: url(http://www.berkleyre.com.au/wp-content/themes/berkley/images/dot.gif) 0px 1px no-repeat;
+	padding: 0 0px;
+	/*background: url(http://www.berkleyre.com.au/wp-content/themes/berkley/images/dot.gif) 0px 1px no-repeat;*/
 }
+
+
+
+
+
 /********* EDN JAMES ********* */
 
 
